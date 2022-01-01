@@ -1,0 +1,149 @@
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\Sebastian\Source\Repos\Alemman\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\User\Desktop\ProyectoComp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\Sebastian\source\repos\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\User\Desktop\ProyectoComp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\REPOSITORIO\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v5\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\MainWindow.g.cs
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez_MarkupCompile.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez_MarkupCompile.lref
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe.config
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\MainWindow.baml
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.g.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v6\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v8\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.AssemblyReference.cache
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\userUser\Desktop\proyCOmp\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v9\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.AssemblyReference.cache
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+C:\Users\userUser\Desktop\proyCOmp\Nueva carpeta (2)\ARGO\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v10\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\bin\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csprojAssemblyReference.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Form1.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala_Aleman_Hernandez.Properties.Resources.resources
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.GenerateResource.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.csproj.CoreCompileInputs.cache
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.exe
+F:\7to Semestre\6. Compiladores\Proyecto\ARGO-main v11\Rodriguez_Zavala-Aleman_Hernandez\obj\Debug\Rodriguez_Zavala-Aleman_Hernandez.pdb
